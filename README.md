@@ -54,7 +54,7 @@ All the following APIs have free no-commercial API calls. Subscribe to the follo
 *   [OpenWeatherMap](https://openweathermap.org/): API for weather forecast.
 *   [coinmarketcap](https://coinmarketcap.com/):API for Cryptocurrency
 *   [WolframAlpha](https://products.wolframalpha.com/api/): API for WOLFRAMALPHA.
-*   [Newsapi](https://newsapi.org/): API for NEWS.
+*   [Newsapi](https://newsapi.org/): API for News.
 
 ## Note  
 Feel free to file a new issue with a respective title and description on the **COSMOS-VIRTUAL ASSISTANT**.  If you already found a solution to your problem, I would love to review your pull request! 
