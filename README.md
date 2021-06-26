@@ -34,7 +34,7 @@ It can recognize human speech, talk to user and execute basic commands.
 *   **Tells about anything** (e.g 'tell me about')   
 *   **Tells about battery** (e.g 'How much power is left')
 
-## Getting Started
+## Getting Started 💻
 
 ## Tech Stacks
 **Python 3.7**
