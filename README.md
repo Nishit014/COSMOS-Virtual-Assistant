@@ -1,4 +1,4 @@
-# COSMOS-VIRTUAL ASSISTANT
+# COSMOS-VIRTUAL ASSISTANT 🤖
 It is an open source accessibility tool created for better usability and interactivity with you computer system using just voice commands. It is a two way communicating virtual assistant developed in python. It is currently under development.
 # About Cosmos - An Intelligent Assistant 🧠
 Cosmos is a voice commanding assistant service in [Python 3.5+](https://www.python.org/downloads/release/python-360/)
